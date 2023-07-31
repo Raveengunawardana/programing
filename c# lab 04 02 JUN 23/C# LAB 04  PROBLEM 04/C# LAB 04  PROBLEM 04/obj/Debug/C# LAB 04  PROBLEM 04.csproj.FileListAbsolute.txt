@@ -1,0 +1,8 @@
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\bin\Debug\C# LAB 04  PROBLEM 04.exe.config
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\bin\Debug\C# LAB 04  PROBLEM 04.exe
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\bin\Debug\C# LAB 04  PROBLEM 04.pdb
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\obj\Debug\C# LAB 04  PROBLEM 04.csproj.AssemblyReference.cache
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\obj\Debug\C# LAB 04  PROBLEM 04.csproj.SuggestedBindingRedirects.cache
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\obj\Debug\C# LAB 04  PROBLEM 04.csproj.CoreCompileInputs.cache
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\obj\Debug\C# LAB 04  PROBLEM 04.exe
+D:\c#\c# lab 04\C# LAB 04  PROBLEM 04\C# LAB 04  PROBLEM 04\obj\Debug\C# LAB 04  PROBLEM 04.pdb
