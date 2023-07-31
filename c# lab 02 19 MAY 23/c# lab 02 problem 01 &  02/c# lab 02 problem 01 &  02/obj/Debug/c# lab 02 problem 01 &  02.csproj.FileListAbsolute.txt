@@ -1,0 +1,8 @@
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\obj\Debug\c# lab 02 problem 01 &  02.csproj.AssemblyReference.cache
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\obj\Debug\c# lab 02 problem 01 &  02.csproj.SuggestedBindingRedirects.cache
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\obj\Debug\c# lab 02 problem 01 &  02.csproj.CoreCompileInputs.cache
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\bin\Debug\c# lab 02 problem 01 &  02.exe.config
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\bin\Debug\c# lab 02 problem 01 &  02.exe
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\bin\Debug\c# lab 02 problem 01 &  02.pdb
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\obj\Debug\c# lab 02 problem 01 &  02.exe
+D:\c#\c# lab 02\c# lab 02 problem 01 &  02\c# lab 02 problem 01 &  02\obj\Debug\c# lab 02 problem 01 &  02.pdb

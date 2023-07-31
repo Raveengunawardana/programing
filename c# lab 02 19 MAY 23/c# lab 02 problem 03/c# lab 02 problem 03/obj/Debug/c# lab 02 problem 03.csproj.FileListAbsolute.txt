@@ -1,0 +1,8 @@
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\obj\Debug\c# lab 02 problem 03.csproj.AssemblyReference.cache
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\obj\Debug\c# lab 02 problem 03.csproj.SuggestedBindingRedirects.cache
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\obj\Debug\c# lab 02 problem 03.csproj.CoreCompileInputs.cache
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\bin\Debug\c# lab 02 problem 03.exe.config
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\bin\Debug\c# lab 02 problem 03.exe
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\bin\Debug\c# lab 02 problem 03.pdb
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\obj\Debug\c# lab 02 problem 03.exe
+D:\c#\c# lab 02\c# lab 02 problem 03\c# lab 02 problem 03\obj\Debug\c# lab 02 problem 03.pdb
